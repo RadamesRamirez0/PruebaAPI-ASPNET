@@ -1,0 +1,7 @@
+/Users/radamesramirez/Projects/Prueba/Prueba/bin/Release/net6.0/publish/Prueba
+/Users/radamesramirez/Projects/Prueba/Prueba/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/radamesramirez/Projects/Prueba/Prueba/bin/Release/net6.0/publish/appsettings.json
+/Users/radamesramirez/Projects/Prueba/Prueba/bin/Release/net6.0/publish/Prueba.dll
+/Users/radamesramirez/Projects/Prueba/Prueba/bin/Release/net6.0/publish/Prueba.deps.json
+/Users/radamesramirez/Projects/Prueba/Prueba/bin/Release/net6.0/publish/Prueba.runtimeconfig.json
+/Users/radamesramirez/Projects/Prueba/Prueba/bin/Release/net6.0/publish/Prueba.pdb
